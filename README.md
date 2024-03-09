@@ -1,0 +1,1 @@
+# Leetcode_Q824_GoatLatin_Py
